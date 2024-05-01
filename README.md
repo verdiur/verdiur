@@ -2,8 +2,6 @@
 
 I'm a 20 year old software engineering student living in France. This is where I store most of my repositories. Feel free to have a look around!
 
-- :paintbrush: Besides programming, my interests are music and graphic design.
-
 <!--
 **verdiur/verdiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
