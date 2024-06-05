@@ -1,4 +1,4 @@
-### :herb: Hey! My name is Eliot :wave:
+### :herb: Hey! :wave:
 
 I'm a 20 year old software engineering student living in France. This is where I store most of my repositories. Feel free to have a look around!
 
