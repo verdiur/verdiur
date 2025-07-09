@@ -2,7 +2,7 @@
 
 I'm a 20 year old software engineering student living in France. This is where I store most of my repositories. Feel free to have a look around!
 
-- :telescope: Currently working on rewriting [clockwork](https://github.com/verdiur/clockwork)
+- :telescope: Currently working on a collaborative yume nikki inspired game
 - :seedling: Currently learning C++
 - :open_book: Interested in music and arts
 
