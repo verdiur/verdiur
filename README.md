@@ -2,7 +2,7 @@
 
 I'm a 20 year old software engineering student living in France. This is where I store most of my repositories. Feel free to have a look around!
 
-- :telescope: Currently working [yume ami](https://github.com/verdiur/yumeami) a collaborative yume nikki inspired game
+- :telescope: Currently working on [Yume Ami](https://github.com/verdiur/yumeami), a collaborative Yume Nikki inspired game
 - :seedling: Currently learning C++
 - :open_book: Interested in music and arts
 
