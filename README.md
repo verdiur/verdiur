@@ -4,7 +4,7 @@ I'm a 20 year old software engineering student living in France. This is where I
 
 - :telescope: Currently working on [Yume Ami](https://github.com/verdiur/yumeami), a collaborative Yume Nikki inspired game
 - :seedling: Currently learning C++
-- :open_book: Interested in music and arts
+- :open_book: Interested in music, arts and climbing
 
 <!--
 **verdiur/verdiur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
